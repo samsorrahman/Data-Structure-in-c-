@@ -1,2 +1,2 @@
-# Data-Structure-in-c-
-This is a practice repository for learning data Structure and algorithm in c++
+# Data-Structure-in-c++
+This is a practical repository of Learning Basics of Data Structure in C++
